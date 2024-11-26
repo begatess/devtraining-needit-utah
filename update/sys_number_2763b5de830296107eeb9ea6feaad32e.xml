@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_58872_needit_needit_aux">x_58872_needit_needit_aux</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NIAUX</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 18:55:04</sys_created_on>
+        <sys_id>2763b5de830296107eeb9ea6feaad32e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NIAUX</sys_name>
+        <sys_package display_value="Employee Special Days" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Special Days">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_2763b5de830296107eeb9ea6feaad32e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 18:55:04</sys_updated_on>
+    </sys_number>
+</record_update>
